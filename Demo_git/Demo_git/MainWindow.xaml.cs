@@ -30,6 +30,7 @@ namespace Demo_git
 
         private void myButton_Click(object sender, RoutedEventArgs e)
         {
+            //commentaire depuis github
             myButton.Content = "Clicked";
         }
     }
