@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Demo_git (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Demo_git (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
